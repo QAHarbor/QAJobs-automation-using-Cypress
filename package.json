@@ -1,0 +1,20 @@
+{
+  "name": "qajobs_automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "-": "^0.0.1",
+    "cypress": "^13.7.3",
+    "save": "^2.9.0"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8",
+    "cypress-xpath": "^2.0.1"
+  }
+}
